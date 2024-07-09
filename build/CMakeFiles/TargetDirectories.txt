@@ -1,4 +1,0 @@
-/home/nitin/NitinWs/BOW/build/CMakeFiles/BOW.dir
-/home/nitin/NitinWs/BOW/build/CMakeFiles/kmean.dir
-/home/nitin/NitinWs/BOW/build/CMakeFiles/edit_cache.dir
-/home/nitin/NitinWs/BOW/build/CMakeFiles/rebuild_cache.dir
