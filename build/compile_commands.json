@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/nitin/NitinWs/BOW/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/BOW.dir/main.cpp.o -c /home/nitin/NitinWs/BOW/main.cpp",
+  "file": "/home/nitin/NitinWs/BOW/main.cpp"
+},
+{
+  "directory": "/home/nitin/NitinWs/BOW/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/BOW.dir/BagofWords.cpp.o -c /home/nitin/NitinWs/BOW/BagofWords.cpp",
+  "file": "/home/nitin/NitinWs/BOW/BagofWords.cpp"
+},
+{
+  "directory": "/home/nitin/NitinWs/BOW/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/kmean.dir/kmean.cpp.o -c /home/nitin/NitinWs/BOW/kmean.cpp",
+  "file": "/home/nitin/NitinWs/BOW/kmean.cpp"
+}
+]
